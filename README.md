@@ -1,2 +1,0 @@
-# SagurIT
-SagurIt upgraded version
